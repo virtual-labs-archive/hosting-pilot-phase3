@@ -17,18 +17,11 @@
   |-- src/
         |-- lab/
         |    |-- Introduction.html
-        |    |-- Theory.html
-        |    |-- Objective.html 	 	
-        |        .
-        |        .
-        |        .
-        |-- themes/ 
-      	      |-- green-icon/
-  	                |-- css/
-  	                |-- js/
-  	                |-- images/
-  	                |-- vendors/
-  #+END_EXAMPLE
+        |    |-- Objective.html 	 	  	                
+        |    |-- experiment-list.json
+        |    |-- Target-audience.html
+        |    |-- Feedback.html
+#+END_EXAMPLE
 
 * Steps to build and run a lab
   *STEP 1 :* Clone the lab repository
