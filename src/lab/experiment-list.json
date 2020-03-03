@@ -2,11 +2,13 @@
     "experiment-name": "sample-name-1",
     "url": "URL",
     "branch": "master",
-    "tag": "v.1.0.0"
+    "tag": "v.1.0.0",
+    "make": "command"
 }
 {
     "experiment-name": "sample-name-2",
     "url": "URL",
     "branch": "master",
-    "tag": "v.1.0.0"
+    "tag": "v.1.0.0",
+    "make": "command"
 }
