@@ -19,7 +19,7 @@
         |    |-- experiment-list.json
         |    |-- Introduction.html
         |    |-- Objective.html 
-	|    |-- List of experiments.html 
+        |    |-- List of experiments.html 
         |    |-- Target-audience.html
         |    |-- Feedback.html
 #+END_EXAMPLE
